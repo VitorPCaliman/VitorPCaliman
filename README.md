@@ -50,9 +50,9 @@
 ### 📈 GitHub Analytics
 
 <p align="left">
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorPCaliman&show_icons=true&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorPCaliman&show_icons=true&theme=gruvbox&count_private=true"/>
 
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorPCaliman&layout=compact&langs_count=8&theme=gruvbox"/> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorPCaliman&layout=compact&langs_count=8&theme=gruvbox"/> 
 
   <img align=right src="https://instagram.fcgh62-1.fna.fbcdn.net/v/t51.2885-19/474980742_2211366022627819_6556240106604338592_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fcgh62-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2AFccA8bC4uy9TUvrw93hQ4bdEexklbJyOSdjBMzn9X-wJb1nL791KuJuB6t9bHqDYDoV3-MbfCUdnFE1pVrbM56&_nc_ohc=WyA9sBoD2yQQ7kNvgE2G1ix&_nc_gid=af70f195f6df4d2ab801284fae20934a&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYDtoY5NvSHlmgLDxdZQ12MKdoKpzj2Rvk4R7tC1dW1VLA&oe=67AB5F99&_nc_sid=7a9f4b"/>
 </p>
